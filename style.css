@@ -1,0 +1,51 @@
+.center {
+    text-align: center;
+    font-size: 120px;
+}
+
+body {
+    background-color: lightblue;
+  }
+Font {
+    margin-bottom: 50px;
+}
+.BtnBG{
+    background-color: azure;
+}
+.seminarBG{
+    background-color: coral;
+}
+.saBG{
+    background-color: goldenrod;
+}
+.webtechBG{
+    background-color: greenyellow;
+}
+.engBG{
+    background-color: hotpink;
+}
+.seBG{
+    background-color: indianred;
+}
+.ipBG{
+    background-color: lightseagreen;
+}
+.osBG{
+    background-color: saddlebrown;
+}
+table.a {
+    table-layout: fixed;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.contentt{
+    font-size: 30px;
+}
+.fontt{
+    font-family: 'Rowdies', cursive;
+    font-size: 120px;
+}
+
+
