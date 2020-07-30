@@ -9,12 +9,14 @@
 </head>
 <body style="background-color: mediumslateblue;">
     <a  href="index.html"><button class="homeBtn">HOME</button></a>
+    <a  href="page1.html"><button class="movieBtn">MOVIES</button></a>
+    <a  href="page2.html"><button class="movieBtn">GAMES</button></a>
+    <a  href="page3.html"><button class="movieBtn">ME</button></a>
     
-    
-    <table style="background-color: slategrey;" style="color: mediumturquoise;" border="1" cellspacing="0">
+    <table class="adjusttable" border="1" cellspacing="0">
         <tr>
             <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-            <th colspan="20">My Schedule</th>
+            <th style="font-size: 50px;" class="headschedule" colspan="20">My Schedule</th>
 
             
         </tr>
@@ -188,7 +190,7 @@ Operating Systems
             <th>&nbsp;</th>
         </tr>
         <tr>
-            <th>Sat</th>
+            <th id="sat" onclick="showDetail(this.id)">Sat</th>
             <th><pre>&nbsp;
                 &nbsp;
                 &nbsp;
@@ -216,7 +218,7 @@ Operating Systems
 
         </tr>
         <tr>
-            <th>Sun</th>
+            <th id="sun" onclick="showDetail(this.id)">Sun</th>
             <th><pre>&nbsp;
                 &nbsp;
                 &nbsp;

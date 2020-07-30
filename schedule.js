@@ -42,6 +42,12 @@ function showDetail(id) {
     else if (id === "fri"){
         detail.innerHTML = "01418341 ทรัพย์สินทางปัญญาและจรรยาบรรณวิชาชีพ Intellectual Properties and Professional Ethics บรรยาย \n01418331 ระบบปฏิบัติการ Intellectual Operating Systems บรรยาย"
     }
+    else if (id === "sat"){
+        detail.innerHTML = ""
+    }
+    else if (id === "sun"){
+        detail.innerHTML = ""
+    }
 
     
 }

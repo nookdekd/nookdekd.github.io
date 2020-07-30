@@ -109,6 +109,28 @@ button:hover, a:hover {
 .homeBtn{
     width: 75px;
     font-family: 'Rowdies', cursive;
+    font-size: 10px;
 }
+.adjusttable{
+    background-color: slategray;
+    margin-top: 50px;
+    color: black;
+}
+.headschedule{
+    font-size: 50px;
+    font-family: 'Rowdies', cursive;
+}
+.movieBtn{
+    width: 75px;
+    font-family: 'Rowdies', cursive;
+    font-size: 10px;
+    float: right;
+    margin-right: 20px;
+}
+.downCen{
+    text-align: center;
+    margin-top: 100px;
+}
+
 
 
