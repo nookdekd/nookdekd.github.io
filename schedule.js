@@ -22,10 +22,10 @@ function showDetail(id) {
         detail.innerHTML = "01418331 ระบบปฏิบัติการ Intellectual Operating Systems \n10.00 - 12.00 บรรยาย \nอ.ผู้สอน ศิริกร จันทร์นวล"
     }
     else if (id === "se1"){
-        detail.innerHTML = "01418471 วิศวกรรมซอฟต์แวร์เบื้องต้น วิศวกรรมซอฟต์แวร์เบื้องต้น \n11.00 - 13.00 บรรยาย \nอ.ผู้สอน อุษา สัมมาพันธ์"
+        detail.innerHTML = "01418471 วิศวกรรมซอฟต์แวร์เบื้องต้น Introduction to Software Engineering \n11.00 - 13.00 บรรยาย \nอ.ผู้สอน อุษา สัมมาพันธ์"
     }
     else if (id === "se2"){
-        detail.innerHTML = "01418471 วิศวกรรมซอฟต์แวร์เบื้องต้น วิศวกรรมซอฟต์แวร์เบื้องต้น \n8.00 - 10.00 ปฏิบัติ \nอ.ผู้สอน อุษา สัมมาพันธ์"
+        detail.innerHTML = "01418471 วิศวกรรมซอฟต์แวร์เบื้องต้น Introduction to Software Engineering \n8.00 - 10.00 ปฏิบัติ \nอ.ผู้สอน อุษา สัมมาพันธ์"
     }
     else if (id === "mon"){
         detail.innerHTML = "01418497 สัมนา seminar \n01418321 การวิเคราะห์เเละออกเเบบระบบ System Analysis and Design บรรยาย \n01418321 การวิเคราะห์เเละออกเเบบระบบ System Analysis and Design ปฏิบัติ"

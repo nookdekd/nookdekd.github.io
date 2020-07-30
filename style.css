@@ -42,10 +42,73 @@ table.a {
 }
 .contentt{
     font-size: 30px;
+    color: skyblue;
 }
 .fontt{
     font-family: 'Rowdies', cursive;
     font-size: 120px;
+}
+.bodyy{
+    background-image:url('https://media.giphy.com/media/Nzz86dByLtYTS/giphy.gif');
+    background-position: center;
+    background-size: cover;
+}
+.bodyyy{
+    background-image:url('https://media.giphy.com/media/lPX7ZMdAYbr3DZkAPd/giphy.gif');
+    background-position: center;
+    background-size: 1950px;
+    
+}
+.audiCenter{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.pikaP{
+    text-align: center;
+    font-size: 120px;
+    color: skyblue;
+    font-family: 'Rowdies', cursive;
+    background-color: black;
+    
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.title {
+    color: grey;
+    font-size: 18px;
+}
+
+button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+
+button:hover, a:hover {
+    opacity: 0.7;
+}
+.homeBtn{
+    width: 75px;
+    font-family: 'Rowdies', cursive;
 }
 
 
